@@ -4,21 +4,18 @@
 git clone https://github.com/shcrypta27/DDos-tool-python-DDos.py.git
 cd DDos-tool-python-DDos.py
 python3 DDos.py
-
-
+```
 
 ## Disclaimer
 
 By using this software, you accept full responsibility for your own actions.
 
-The author is not responsible for any damage,
-
-
+The author is not responsible for any damage, data loss, service interruption, system instability, or other issues that may result from the use or misuse of this software.
 
 ## Feedback
 
-If you encounter any bugs, errors, or unexpected behavior, please open an issue and provide as much detail as possible, including the operating system, Python version, and any error messages.
+If you encounter any bugs, errors, or unexpected behavior, please open an issue and provide as much detail as possible.
 
-Feedback is also appreciated when everything works as intended. Knowing that the project functions correctly in different environments helps improve reliability and future development.
+Feedback is also appreciated when everything works as intended. Knowing that the project functions correctly helps improve reliability and future development.
 
 Reports, suggestions, and constructive criticism are always welcome.
